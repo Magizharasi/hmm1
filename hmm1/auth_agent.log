@@ -1,0 +1,23 @@
+2025-08-22 21:02:03,352 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:06:59,691 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:19:19,290 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:32:49,087 - root - ERROR - Application startup failed: Attribute name 'metadata' is reserved when using the Declarative API.
+2025-08-22 21:35:36,478 - root - ERROR - Application startup failed: Attribute name 'metadata' is reserved when using the Declarative API.
+2025-08-22 21:37:21,754 - root - ERROR - Application startup failed: Attribute name 'metadata' is reserved when using the Declarative API.
+2025-08-22 21:45:37,567 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:45:37,905 - werkzeug - INFO -  * Restarting with stat
+2025-08-22 21:45:43,164 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:45:43,494 - werkzeug - WARNING -  * Debugger is active!
+2025-08-22 21:45:43,494 - werkzeug - INFO -  * Debugger PIN: 113-668-661
+2025-08-22 21:48:00,274 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:48:00,628 - werkzeug - INFO -  * Restarting with stat
+2025-08-22 21:48:05,779 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-22 21:48:06,109 - werkzeug - WARNING -  * Debugger is active!
+2025-08-22 21:48:06,109 - werkzeug - INFO -  * Debugger PIN: 113-668-661
